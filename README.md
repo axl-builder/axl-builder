@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Axel | AXL Builder  
+# Hi, I'm Axel | AXL Builder  
 
 **From Architecture to Code | Python, Data & AI Projects**  
 
